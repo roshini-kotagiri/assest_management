@@ -90,8 +90,5 @@ The app supports:
 - Safari (latest)
 - Edge (latest)
 
-## License
-
-MIT
 
 
