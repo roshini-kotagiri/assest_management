@@ -4,12 +4,12 @@ A professional, modern landing page for an asset management platform built with 
 
 ## Features
 
-- 🌐 **Landing Page** - Hero section with animated dashboard mockup, features grid, about section, and contact CTA
-- 🔐 **Authentication** - Professional login and signup pages with form validation
-- 🌗 **Dark/Light Mode** - Smooth theme toggle with system preference detection
-- ✨ **Animations** - Scroll-triggered animations, micro-interactions, and smooth transitions
-- 📱 **Responsive** - Fully responsive design for all screen sizes
-- 🎨 **Modern Design** - Glassmorphism, gradients, and professional corporate styling
+-  **Landing Page** - Hero section with animated dashboard mockup, features grid, about section, and contact CTA
+-  **Authentication** - Professional login and signup pages with form validation
+-  **Dark/Light Mode** - Smooth theme toggle with system preference detection
+-  **Animations** - Scroll-triggered animations, micro-interactions, and smooth transitions
+-  **Responsive** - Fully responsive design for all screen sizes
+-  **Modern Design** - Glassmorphism, gradients, and professional corporate styling
 
 ## Getting Started
 
